@@ -1,4 +1,4 @@
-name: Test site build
+name: Test site build file 
 
 on: [push, pull_request]
 
