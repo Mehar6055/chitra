@@ -1,6 +1,10 @@
  demo file 
  professional coder by mehar
 
-def hotfix():
+def hotfix()
+           " return "to show the diff between merge and rebase"
+=======
+ def hotfix():
 
-            return "to show the diff between merge and rebase"
+	 "diff between merge and rebase"
+>>>>>>> hotfix/dev-345
